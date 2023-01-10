@@ -17,12 +17,6 @@ function colorAndLog(str) {
   console.log(chalk.hex(color).bold(str));
 }
 
-if (color === undefined) {
-  colorAndLog();
-} else if (color) {
-  console.log(color);
-}
-
 colorAndLog(`##############################
 ##############################
 ##############################
