@@ -8,14 +8,14 @@ Generate random color:
 
 ```bash
 $ node index.js
-(add color)
+🔵
 $ node index.js
-(add different color)
+🟢
 ```
 
-Or, choose a color:
+Or, specify the hue and/or luminostiy:
 
 ```bash
 $ node index.js red
-(red)
+🔴
 ```
