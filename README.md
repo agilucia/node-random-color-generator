@@ -13,7 +13,7 @@ $ node index.js
 🟢
 ```
 
-Or, specify the hue and/or luminostiy:
+Or, specify the hue and/or luminosity:
 
 ```bash
 $ node index.js red

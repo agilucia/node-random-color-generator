@@ -18,7 +18,7 @@ function colorAndLog(str) {
 }
 
 if (color === undefined) {
-  colorAndLog(str);
+  colorAndLog();
 } else if (color) {
   console.log(color);
 }
