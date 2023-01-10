@@ -21,7 +21,7 @@ $ node index.js red
 ```
 Example: random
 
-<img src="random_color.png">
+![plot](./UpLeveled/exercises/screenshots/random_color.png)
 
 Example: chosen color
 
