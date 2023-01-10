@@ -19,10 +19,3 @@ Or, specify the hue and/or luminosity:
 $ node index.js red
 🔴
 ```
-Example: random
-
-![plot](./UpLeveled/exercises/screenshots/random_color.png)
-
-Example: chosen color
-
-<img src="specific_color.png">
